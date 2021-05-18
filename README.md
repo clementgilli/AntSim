@@ -1,11 +1,16 @@
 # AntSim
 
-## <br> **Description**
+<br>
 
-<br> This project is a collaboration between Clément Gilli and Tom Pleskoff. Our goal was to simulate the behaviour of different ant colonies, feeding their nest with sugar and fighting other colonies. We worked aproximatively 20 hours each one. 
+## **Description**
 
-<br />
-  <img alt="ant.gif" src="./Images/ant.gif"/>
+<br>
+
+This project is a collaboration between Clément Gilli and [Tom Pleskoff](https://github.com/TomP30). Our goal was to simulate the behaviour of different ant colonies, feeding their nest with sugar and fighting other colonies. We worked aproximatively 20 hours each one. 
+
+<br>
+  
+<img alt="ant.gif" src="./Images/ant.gif"/>
 
 
 
@@ -61,6 +66,11 @@ OPTION : -w   ->   add crossed walls which separates the grid in four areas
 - 4/5: it works, it has been tested and it is so simple that there is no doubt about it
 
 <br>
+<br>
+
+
+Thanks to [Valeran Maytie](https://github.com/Valeran-MAYTIE) who help us 
+<br> 
 <br>
 <h1 align="center">
 <img align=center alt="ant.png" src="./Images/ant.png"/>
