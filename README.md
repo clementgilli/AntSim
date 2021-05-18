@@ -6,7 +6,7 @@
 
 <br>
 
-This project is a collaboration between Clément Gilli and [Tom Pleskoff](https://github.com/TomP30). Our goal was to simulate the behaviour of different ant colonies, feeding their nest with sugar and fighting other colonies. We worked aproximatively 20 hours each one. 
+This project is a collaboration between Clément Gilli and [Tom Pleskoff](https://github.com/TomP30). Our goal was to simulate the behaviour of different ant colonies, feeding their nest with sugar and fighting other colonies. We worked aproximatively 20 hours each one
 
 <br>
   
