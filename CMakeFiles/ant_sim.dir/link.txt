@@ -1,1 +1,0 @@
-/usr/bin/c++    -rdynamic CMakeFiles/ant_sim.dir/src/main.cpp.o CMakeFiles/ant_sim.dir/src/controllers/manager.cpp.o CMakeFiles/ant_sim.dir/src/models/coord.cpp.o CMakeFiles/ant_sim.dir/src/models/fourmi.cpp.o CMakeFiles/ant_sim.dir/src/models/place.cpp.o CMakeFiles/ant_sim.dir/src/views/affichage.cpp.o  -o ant_sim  -lsfml-system -lsfml-graphics -lsfml-window 
