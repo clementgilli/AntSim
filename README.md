@@ -69,7 +69,7 @@ OPTION : -w   ->   add crossed walls which separates the grid in four areas
 <br>
 
 
-Thanks to [Valeran Maytie](https://github.com/Valeran-MAYTIE) who help us 
+Thanks to [Valeran Maytie](https://github.com/Valeran-MAYTIE) who helped us 
 <br> 
 <br>
 <h1 align="center">
